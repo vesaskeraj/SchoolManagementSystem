@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="S.M.S.Repositories/S.M.S.Repositories.csproj" />
+  <Project Path="S.M.S.Services/S.M.S.Services.csproj" />
+  <Project Path="S.M.S.Utilities/S.M.S.Utilities.csproj" />
+  <Project Path="S.M.S.ViewModels/S.M.S.ViewModels.csproj" />
+  <Project Path="SchoolMenagementSystem/SchoolMenagementSystem.csproj" />
+  <Project Path="SchoolMenagementSystemModels/S.M.S.Models.csproj" />
+</Solution>

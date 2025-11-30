@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\obj\Debug\net10.0\S.M.S.Models.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\obj\Debug\net10.0\S.M.S.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\obj\Debug\net10.0\S.M.S.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\obj\Debug\net10.0\S.M.S.Models.AssemblyInfo.cs
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\obj\Debug\net10.0\S.M.S.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\bin\Debug\net10.0\S.M.S.Models.deps.json
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\bin\Debug\net10.0\S.M.S.Models.dll
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\bin\Debug\net10.0\S.M.S.Models.pdb
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\obj\Debug\net10.0\S.M.S.Models.dll
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\obj\Debug\net10.0\refint\S.M.S.Models.dll
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\obj\Debug\net10.0\S.M.S.Models.pdb
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\obj\Debug\net10.0\ref\S.M.S.Models.dll

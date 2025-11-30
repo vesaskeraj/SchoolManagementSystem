@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\bin\Debug\net8.0\S.M.S.Repositories.deps.json
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\bin\Debug\net8.0\S.M.S.Repositories.dll
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\bin\Debug\net8.0\S.M.S.Repositories.pdb
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\bin\Debug\net8.0\S.M.S.Models.dll
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\bin\Debug\net8.0\S.M.S.Models.pdb
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Repositories.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Repositories.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Repositories.AssemblyInfo.cs
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Re.E56034B5.Up2Date
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Repositories.dll
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\obj\Debug\net8.0\refint\S.M.S.Repositories.dll
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Repositories.pdb
+C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\obj\Debug\net8.0\ref\S.M.S.Repositories.dll

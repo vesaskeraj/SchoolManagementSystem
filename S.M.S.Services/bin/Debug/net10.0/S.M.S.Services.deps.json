@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "S.M.S.Services/1.0.0": {
+        "dependencies": {
+          "ServiceStack.Interfaces": "8.10.0"
+        },
+        "runtime": {
+          "S.M.S.Services.dll": {}
+        }
+      },
+      "ServiceStack.Interfaces/8.10.0": {
+        "runtime": {
+          "lib/net8.0/ServiceStack.Interfaces.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "8.10.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S.M.S.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceStack.Interfaces/8.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gNKh2K/N6mB4FwfBZuyywYSN7n3AuTsBzJ1G1MUI65blOWWDhg+9CgAthDhI5dEI8fwPwyIZbEKfRWEIohx5Ow==",
+      "path": "servicestack.interfaces/8.10.0",
+      "hashPath": "servicestack.interfaces.8.10.0.nupkg.sha512"
+    }
+  }
+}
