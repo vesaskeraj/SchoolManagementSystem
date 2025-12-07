@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {
+    "net8.0": {
       "ServiceStack.Interfaces/8.10.0": {
         "type": "package",
         "compile": {
@@ -31,7 +31,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net10.0": [
+    "net8.0": [
       "ServiceStack.Interfaces >= 8.10.0"
     ]
   },
@@ -57,7 +57,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net10.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -65,8 +65,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net10.0": {
-          "targetAlias": "net10.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -78,13 +78,13 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
       "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
-      "net10.0": {
-        "targetAlias": "net10.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "dependencies": {
           "ServiceStack.Interfaces": {
             "target": "Package",
@@ -110,5 +110,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Admin\\Desktop\\SchoolProject\\S.M.S.Services\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+    }
+  ]
 }

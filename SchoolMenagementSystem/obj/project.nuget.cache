@@ -253,6 +253,15 @@
   ],
   "logs": [
     {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\Admin\\Desktop\\SchoolProject\\SchoolMenagementSystem\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\SchoolProject\\SchoolMenagementSystem\\SchoolMenagementSystem.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Admin\\Desktop\\SchoolProject\\SchoolMenagementSystem\\SchoolMenagementSystem.csproj",
+      "targetGraphs": []
+    },
+    {
       "code": "NU1604",
       "level": "Warning",
       "message": "Project dependency Microsoft.AspNetCore.Identity.EntityFrameworkCore does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",

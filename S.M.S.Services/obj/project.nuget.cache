@@ -1,10 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "q4In57q+3+0=",
+  "dgSpecHash": "SD6sHm8HB0o=",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\SchoolProject\\S.M.S.Services\\S.M.S.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\servicestack.interfaces\\8.10.0\\servicestack.interfaces.8.10.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\Admin\\Desktop\\SchoolProject\\S.M.S.Services\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\SchoolProject\\S.M.S.Services\\S.M.S.Services.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Admin\\Desktop\\SchoolProject\\S.M.S.Services\\S.M.S.Services.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

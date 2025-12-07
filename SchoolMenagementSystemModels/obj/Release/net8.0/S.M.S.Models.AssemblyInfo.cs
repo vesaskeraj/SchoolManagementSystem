@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S.M.S.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d3aef2493dccf6d6029340e75d89547ff719f3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("S.M.S.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S.M.S.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

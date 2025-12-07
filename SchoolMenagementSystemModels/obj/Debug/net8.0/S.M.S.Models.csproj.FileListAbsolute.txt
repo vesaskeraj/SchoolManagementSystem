@@ -10,6 +10,7 @@ C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSys
 C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\refint\S.M.S.Models.dll
 C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.pdb
 C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\ref\S.M.S.Models.dll
+<<<<<<< HEAD
 C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystemModels\bin\Debug\net8.0\S.M.S.Models.deps.json
 C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystemModels\bin\Debug\net8.0\S.M.S.Models.dll
 C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystemModels\bin\Debug\net8.0\S.M.S.Models.pdb
@@ -23,3 +24,31 @@ C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystemModels\obj\Debug\net8
 C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystemModels\obj\Debug\net8.0\refint\S.M.S.Models.dll
 C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.pdb
 C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystemModels\obj\Debug\net8.0\ref\S.M.S.Models.dll
+=======
+C:\Users\Vesa\Desktop\SchoolManagementSystem\SchoolMenagementSystemModels\bin\Debug\net8.0\S.M.S.Models.deps.json
+C:\Users\Vesa\Desktop\SchoolManagementSystem\SchoolMenagementSystemModels\bin\Debug\net8.0\S.M.S.Models.dll
+C:\Users\Vesa\Desktop\SchoolManagementSystem\SchoolMenagementSystemModels\bin\Debug\net8.0\S.M.S.Models.pdb
+C:\Users\Vesa\Desktop\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.csproj.AssemblyReference.cache
+C:\Users\Vesa\Desktop\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesa\Desktop\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.AssemblyInfoInputs.cache
+C:\Users\Vesa\Desktop\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.AssemblyInfo.cs
+C:\Users\Vesa\Desktop\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.csproj.CoreCompileInputs.cache
+C:\Users\Vesa\Desktop\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.sourcelink.json
+C:\Users\Vesa\Desktop\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.dll
+C:\Users\Vesa\Desktop\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\refint\S.M.S.Models.dll
+C:\Users\Vesa\Desktop\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.pdb
+C:\Users\Vesa\Desktop\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\ref\S.M.S.Models.dll
+C:\Users\38349\Desktop\vesa\SchoolManagementSystem\SchoolMenagementSystemModels\bin\Debug\net8.0\S.M.S.Models.deps.json
+C:\Users\38349\Desktop\vesa\SchoolManagementSystem\SchoolMenagementSystemModels\bin\Debug\net8.0\S.M.S.Models.dll
+C:\Users\38349\Desktop\vesa\SchoolManagementSystem\SchoolMenagementSystemModels\bin\Debug\net8.0\S.M.S.Models.pdb
+C:\Users\38349\Desktop\vesa\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.csproj.AssemblyReference.cache
+C:\Users\38349\Desktop\vesa\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38349\Desktop\vesa\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.AssemblyInfoInputs.cache
+C:\Users\38349\Desktop\vesa\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.AssemblyInfo.cs
+C:\Users\38349\Desktop\vesa\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.csproj.CoreCompileInputs.cache
+C:\Users\38349\Desktop\vesa\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.sourcelink.json
+C:\Users\38349\Desktop\vesa\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.dll
+C:\Users\38349\Desktop\vesa\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\refint\S.M.S.Models.dll
+C:\Users\38349\Desktop\vesa\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\S.M.S.Models.pdb
+C:\Users\38349\Desktop\vesa\SchoolManagementSystem\SchoolMenagementSystemModels\obj\Debug\net8.0\ref\S.M.S.Models.dll
+>>>>>>> b9e8d5e732349efe0dfe9c116197c55733d3857b

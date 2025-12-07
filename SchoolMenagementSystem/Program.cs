@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using S.M.S.Repositories; 
 using S.M.S.Models;
+using Microsoft.EntityFrameworkCore.Internal;
+using S.M.S.Utilities;
 
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("SchoolMenagementSystemContextConnection") ?? throw new InvalidOperationException("Connection string 'SchoolMenagementSystemContextConnection' not found.");
@@ -9,9 +11,13 @@ var connectionString = builder.Configuration.GetConnectionString("SchoolMenageme
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-builder.Services.AddDefaultIdentity<ApplicationUser>(options =>
-        options.SignIn.RequireConfirmedAccount = true)
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddDefaultTokenProviders()
     .AddEntityFrameworkStores<ApplicationDbContext>();
+
+builder.Services.AddScoped<IDbInitializer, DbInitializer>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped<S.M.S.Utilities.IEmailSender, EmailSender>();
+
 
 
 // Add services to the container.
@@ -29,6 +35,9 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+DataSeeding();
+
 app.UseRouting();
 
 app.UseAuthorization();
@@ -40,3 +49,11 @@ app.MapControllerRoute(
 
 
 app.Run();
+
+void DataSeeding() {
+    using (var scope = app.Services.CreateScope())
+    {
+        var DbInitializer = scope.ServiceProvider.GetRequiredService<IDbInitializer>();
+        DbInitializer.Initialize();
+    }
+}
