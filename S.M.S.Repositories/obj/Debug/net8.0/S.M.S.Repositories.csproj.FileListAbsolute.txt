@@ -13,3 +13,9 @@ C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\
 C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\obj\Debug\net8.0\refint\S.M.S.Repositories.dll
 C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Repositories.pdb
 C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Repositories\obj\Debug\net8.0\ref\S.M.S.Repositories.dll
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Repositories.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Repositories.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Repositories.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Repositories\obj\Debug\net8.0\S.M.S.Repositories.sourcelink.json

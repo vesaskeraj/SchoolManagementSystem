@@ -10,3 +10,16 @@ C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Services\obj\
 C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Services\obj\Debug\net10.0\refint\S.M.S.Services.dll
 C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Services\obj\Debug\net10.0\S.M.S.Services.pdb
 C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\S.M.S.Services\obj\Debug\net10.0\ref\S.M.S.Services.dll
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Services\bin\Debug\net10.0\S.M.S.Services.deps.json
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Services\bin\Debug\net10.0\S.M.S.Services.dll
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Services\bin\Debug\net10.0\S.M.S.Services.pdb
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Services\obj\Debug\net10.0\S.M.S.Services.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Services\obj\Debug\net10.0\S.M.S.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Services\obj\Debug\net10.0\S.M.S.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Services\obj\Debug\net10.0\S.M.S.Services.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Services\obj\Debug\net10.0\S.M.S.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Services\obj\Debug\net10.0\S.M.S.Services.sourcelink.json
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Services\obj\Debug\net10.0\S.M.S.Services.dll
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Services\obj\Debug\net10.0\refint\S.M.S.Services.dll
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Services\obj\Debug\net10.0\S.M.S.Services.pdb
+C:\Users\Admin\Desktop\SchoolProject\S.M.S.Services\obj\Debug\net10.0\ref\S.M.S.Services.dll

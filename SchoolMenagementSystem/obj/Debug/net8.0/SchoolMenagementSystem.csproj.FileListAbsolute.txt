@@ -299,3 +299,14 @@ C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSys
 C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Admin\Desktop\School Project\SchoolMenagementSystem\SchoolMenagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystem\obj\Debug\net8.0\SchoolMenagementSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystem\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystem\obj\Debug\net8.0\SchoolMenagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystem\obj\Debug\net8.0\SchoolMenagementSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystem\obj\Debug\net8.0\SchoolMenagementSystem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystem\obj\Debug\net8.0\SchoolMenagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystem\obj\Debug\net8.0\SchoolMenagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystem\obj\Debug\net8.0\SchoolMenagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystem\obj\Debug\net8.0\SchoolMenagementSystem.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystem\obj\Debug\net8.0\SchoolMenagementSystem.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\SchoolProject\SchoolMenagementSystem\obj\Debug\net8.0\SchoolMenagementSystem.sourcelink.json
