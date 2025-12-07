@@ -11,7 +11,7 @@ using S.M.S.Models;
 
 namespace S.M.S.Repositories
 {
-       public class ApplicationDbContext : IdentityDbContext
+       public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
         { 
 
             public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)

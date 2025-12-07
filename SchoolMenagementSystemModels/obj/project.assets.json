@@ -840,23 +840,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vesa\\.nuget\\packages\\": {},
+    "C:\\Users\\38349\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vesa\\Desktop\\SchoolManagementSystem\\SchoolMenagementSystemModels\\S.M.S.Models.csproj",
+      "projectUniqueName": "C:\\Users\\38349\\Desktop\\vesa\\SchoolManagementSystem\\SchoolMenagementSystemModels\\S.M.S.Models.csproj",
       "projectName": "S.M.S.Models",
-      "projectPath": "C:\\Users\\Vesa\\Desktop\\SchoolManagementSystem\\SchoolMenagementSystemModels\\S.M.S.Models.csproj",
-      "packagesPath": "C:\\Users\\Vesa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vesa\\Desktop\\SchoolManagementSystem\\SchoolMenagementSystemModels\\obj\\",
+      "projectPath": "C:\\Users\\38349\\Desktop\\vesa\\SchoolManagementSystem\\SchoolMenagementSystemModels\\S.M.S.Models.csproj",
+      "packagesPath": "C:\\Users\\38349\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\38349\\Desktop\\vesa\\SchoolManagementSystem\\SchoolMenagementSystemModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Vesa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\38349\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -884,7 +884,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -915,7 +915,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
