@@ -1,0 +1,13 @@
+C:\Users\Vesa\Desktop\SchoolManagementSystem\S.M.S.Services\bin\Debug\net8.0\S.M.S.Services.deps.json
+C:\Users\Vesa\Desktop\SchoolManagementSystem\S.M.S.Services\bin\Debug\net8.0\S.M.S.Services.dll
+C:\Users\Vesa\Desktop\SchoolManagementSystem\S.M.S.Services\bin\Debug\net8.0\S.M.S.Services.pdb
+C:\Users\Vesa\Desktop\SchoolManagementSystem\S.M.S.Services\obj\Debug\net8.0\S.M.S.Services.csproj.AssemblyReference.cache
+C:\Users\Vesa\Desktop\SchoolManagementSystem\S.M.S.Services\obj\Debug\net8.0\S.M.S.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesa\Desktop\SchoolManagementSystem\S.M.S.Services\obj\Debug\net8.0\S.M.S.Services.AssemblyInfoInputs.cache
+C:\Users\Vesa\Desktop\SchoolManagementSystem\S.M.S.Services\obj\Debug\net8.0\S.M.S.Services.AssemblyInfo.cs
+C:\Users\Vesa\Desktop\SchoolManagementSystem\S.M.S.Services\obj\Debug\net8.0\S.M.S.Services.csproj.CoreCompileInputs.cache
+C:\Users\Vesa\Desktop\SchoolManagementSystem\S.M.S.Services\obj\Debug\net8.0\S.M.S.Services.sourcelink.json
+C:\Users\Vesa\Desktop\SchoolManagementSystem\S.M.S.Services\obj\Debug\net8.0\S.M.S.Services.dll
+C:\Users\Vesa\Desktop\SchoolManagementSystem\S.M.S.Services\obj\Debug\net8.0\refint\S.M.S.Services.dll
+C:\Users\Vesa\Desktop\SchoolManagementSystem\S.M.S.Services\obj\Debug\net8.0\S.M.S.Services.pdb
+C:\Users\Vesa\Desktop\SchoolManagementSystem\S.M.S.Services\obj\Debug\net8.0\ref\S.M.S.Services.dll

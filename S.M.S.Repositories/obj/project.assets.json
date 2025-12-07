@@ -859,23 +859,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\Vesa\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\School Project\\SchoolMenagementSystem\\S.M.S.Repositories\\S.M.S.Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\Vesa\\Desktop\\SchoolManagementSystem\\S.M.S.Repositories\\S.M.S.Repositories.csproj",
       "projectName": "S.M.S.Repositories",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\School Project\\SchoolMenagementSystem\\S.M.S.Repositories\\S.M.S.Repositories.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\School Project\\SchoolMenagementSystem\\S.M.S.Repositories\\obj\\",
+      "projectPath": "C:\\Users\\Vesa\\Desktop\\SchoolManagementSystem\\S.M.S.Repositories\\S.M.S.Repositories.csproj",
+      "packagesPath": "C:\\Users\\Vesa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vesa\\Desktop\\SchoolManagementSystem\\S.M.S.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vesa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -884,14 +884,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\School Project\\SchoolMenagementSystem\\SchoolMenagementSystemModels\\S.M.S.Models.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\School Project\\SchoolMenagementSystem\\SchoolMenagementSystemModels\\S.M.S.Models.csproj"
+            "C:\\Users\\Vesa\\Desktop\\SchoolManagementSystem\\SchoolMenagementSystemModels\\S.M.S.Models.csproj": {
+              "projectPath": "C:\\Users\\Vesa\\Desktop\\SchoolManagementSystem\\SchoolMenagementSystemModels\\S.M.S.Models.csproj"
             }
           }
         }
@@ -906,7 +907,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -933,7 +934,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
