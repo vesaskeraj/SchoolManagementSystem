@@ -31,8 +31,9 @@
                     <!-- Login/Register -->
                     <ul class="navbar-nav ms-auto">
                         @using Microsoft.AspNetCore.Identity
-                        @inject SignInManager<IdentityUser> SignInManager
-                        @inject UserManager<IdentityUser> UserManager
+                        @using S.M.S.Models
+                        @inject SignInManager<ApplicationUser> SignInManager
+                        @inject UserManager<ApplicationUser> UserManager
 
                         @if (SignInManager.IsSignedIn(User))
                         {

@@ -9,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("SchoolMenagementSystemContextConnection") ?? throw new InvalidOperationException("Connection string 'SchoolMenagementSystemContextConnection' not found.");
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("SchoolMenagementSystemContextConnection")));
 
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddDefaultTokenProviders()
     .AddEntityFrameworkStores<ApplicationDbContext>();
@@ -22,6 +22,7 @@ builder.Services.AddScoped<S.M.S.Utilities.IEmailSender, EmailSender>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddRazorPages();
 
 var app = builder.Build();
 
@@ -40,6 +41,7 @@ DataSeeding();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 
